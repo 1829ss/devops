@@ -1,2 +1,2 @@
 # devops
-devops training repositary
+devops  repositary used for training purpose for course
